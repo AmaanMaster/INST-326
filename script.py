@@ -1,0 +1,2 @@
+def goodbyefunction():
+    print("Goodbye")
